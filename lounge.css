@@ -1,29 +1,34 @@
-body{
-	font-family: Verdana, Geneva, Arial, sans-serif;
-	font-size: large;
-	line-height: 1.6em;
-	padding: 25px;
-	margin: 30px;
+	#text{
+		font-family: Verdana, Geneva, Arial, sans-serif;
+		font-size: large;
+		line-height: 1.6em;
+		padding: 25px;
+		margin: 30px;
 	
 		}
 
-		h1{
+	h1{
 			margin: 35px;
 		}
 
 
-		h1,h2{
+	h1,h2{
 			text-align: center;
 		}
 
-		p{
+	p{
 			text-align: justify-all;
 		}
 		
-		.spa{
+	#paragr{
 			margin-bottom: 35px;
 		}
 		
-		h2.titlea{
+	#titlea{
 			margin: 35px;
 		}
+		
+	#footer{
+			margin-top:50px;
+			text-align: center;
+	}
