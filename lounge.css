@@ -33,3 +33,46 @@
 			margin-top:50px;
 			text-align: center;
 	}
+	
+.wrapper{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+}
+
+.logo a{
+	text-decoration: none;
+	font-size: 30px;
+	font-family: Arial;
+	color: #FFC125;
+	letter-spacing: 4px;
+}
+
+nav{
+	float: right;
+	line-height: 100px;
+}
+
+nav a:hover{
+	background: #2F4F4F;
+	color: #DCDCDC;
+	
+}
+
+nav a{
+	text-decoration: none;
+	font-family: Arial;
+	letter-spacing: 4px;
+	color: #B8860B;
+	padding: 36px 10px;
+	margin: 0px;
+	font-weight: bold;
+}
+
+#logo{
+	margin-right: 200px;
+}
+
+
